@@ -22,4 +22,3 @@ This is a simple React-based web application that allows users to create and dis
 
 ### 4. Admin Feature
 - **Admin Panel:** Allows an admin to manage (create, update, delete) the cards from the frontend.
-
